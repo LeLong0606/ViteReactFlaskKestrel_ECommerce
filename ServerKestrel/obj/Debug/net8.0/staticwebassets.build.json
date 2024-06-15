@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TWHORdlwW6lGkGI9jdMxQT2fQuO7m+M0S3o8O9g4jKo=",
+  "Source": "ServerKestrel",
+  "BasePath": "_content/ServerKestrel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
